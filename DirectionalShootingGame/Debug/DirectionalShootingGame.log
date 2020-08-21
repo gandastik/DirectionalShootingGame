@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(83,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(83,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+D:\gameDev\DirectionalShootingGame\DirectionalShootingGame\main.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+  DirectionalShootingGame.vcxproj -> D:\gameDev\DirectionalShootingGame\Debug\DirectionalShootingGame.exe
